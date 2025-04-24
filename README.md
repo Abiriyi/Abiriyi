@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abiriyi
 - 👀 I’m interested in collaborations 
-- 🌱 I’m currently learning python programming 
-- 💞️ I’m looking to collaborate on python programming 
+- 🌱 I’m a web app developer 
+- 💞️
 - 📫 How to reach me via email on casimirabiriyi@gmail.com
 
 <!---
