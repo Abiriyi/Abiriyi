@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abiriyi
-- 👀 I’m interested in collaborations 
+- 👀 I’m open to collaborations 
 - 🌱 I’m a web app developer 
 - 💞️
 - 📫 How to reach me via email on casimirabiriyi@gmail.com
